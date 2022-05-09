@@ -2,7 +2,6 @@
  * File: SpellingBee.java
  * ----------------------
  * This program contains the starter file for the SpellingBee application.
- * BE SURE TO CHANGE THIS COMMENT WHEN YOU COMPLETE YOUR SOLUTION.
  */
 
 import java.awt.Color;
